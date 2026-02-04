@@ -9,6 +9,7 @@
 Second-year university student in Japan
 Programming experience: **less than 1 years**
 Currently focusing on **Swift** and **SwiftUI**
+I want to make interesting games
 
 ---
 
@@ -24,12 +25,6 @@ Currently focusing on **Swift** and **SwiftUI**
 **Swift** 
 **iOS Architecture** 
 **UI / UX design**
-
----
-
-## ✉️ Contact
-
-If you'd like to reach out, feel free to DM me on **X (Twitter)**.
 
 <!--
 **masatohonda476/masatohonda476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
