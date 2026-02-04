@@ -1,4 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm **masatohonda476**
+
+**iOS Developer (Swift / SwiftUI) — University Student in Japan**
+
+---
+
+## 🧑‍💻 About Me
+
+Second-year university student in Japan
+Programming experience: **less than 1 years**
+Currently focusing on **Swift** and **SwiftUI**
+
+---
+
+## 🛠 Tech Stack
+
+**Swift / SwiftUI**
+**Git / GitHub**
+
+---
+
+## 📚 What I'm Learning Now
+
+**Swift** 
+**iOS Architecture** 
+**UI / UX design**
+
+---
+
+## ✉️ Contact
+
+If you'd like to reach out, feel free to DM me on **X (Twitter)**.
 
 <!--
 **masatohonda476/masatohonda476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
