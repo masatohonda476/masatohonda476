@@ -7,8 +7,8 @@
 ## 🧑‍💻 About Me
 
 Second-year university student in Japan  
-Programming experience: **less than 1 years**  
-Currently focusing on **Swift** and **SwiftUI**  
+Programming experience: **about 1 years**  
+Currently focusing on **Unity**  
 I want to make interesting games  
 
 ---
@@ -17,6 +17,8 @@ I want to make interesting games
 
 **Swift / SwiftUI**  
 **Git / GitHub**
+<br>
+**Unity**
 
 ---
 
