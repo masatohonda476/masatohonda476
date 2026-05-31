@@ -24,7 +24,7 @@ I want to make interesting games
 
 ## 📚 What I'm Learning Now
 
-**Swift** **iOS Architecture** **UI / UX design**
+Creating a 3D action game using **Unity**
 
 ---
 <!--
